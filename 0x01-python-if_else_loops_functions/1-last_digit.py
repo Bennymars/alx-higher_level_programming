@@ -19,4 +19,4 @@ elif lastDigit > 5:
 
 elif lastDigit < 6:
     print(f"Last digit of {number:d} is {lastDigit:d}\
-  and is less than 6 and not 0")
+ and is less than 6 and not 0")
